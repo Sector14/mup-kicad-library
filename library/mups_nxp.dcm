@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SC16IS740
-D Driver de Ligne RS232
-K RS232
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 2N7000
-D N-Channel Enhancement Mode Field Effect Transistor
-K N-Channel MOSFET
-F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
-$ENDCMP
-#
-#End Doc Library
